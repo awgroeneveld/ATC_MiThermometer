@@ -23,8 +23,6 @@ https://atc1441.github.io/TelinkFlasher.html
 
 The web flasher works for many devices that uses the Telink TLSR82** MCUs and it can also be used to reflash the Stock firmware back to the device.
 
-### You can support my work via PayPal: https://paypal.me/hoverboard1 this keeps projects like this coming.
-
 Tutorial in spanish: https://domoticaencasa.es/tutorial-custom-firmware-termohigrometro-xiaomi-lywsd03mmc
 Thanks to Eduardo Ruiz
 
